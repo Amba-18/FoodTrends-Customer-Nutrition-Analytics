@@ -1,4 +1,4 @@
-# FoodTrends-Understanding-Customer-Preferences-in-FB-Project
+# FoodTrends: Customer Nutrition Analytics
 
 
 An interactive Power BI dashboard designed to analyze food consumption patterns, nutritional balance, and lifestyle impact—helping uncover actionable insights about customer dietary behavior and health trends.
